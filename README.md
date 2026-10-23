@@ -1,22 +1,3 @@
-# Hi there, I'm Swayam Shakya 👋
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Swayam Shakya"
-        self.role = "Systems & Software Developer / Researcher"
-        self.passions = [
-            "Building curious & innovative software",
-            "Exploring research-worthy ideas",
-            "Designing robust systems"
-        ]
-
-    def current_focus(self):
-        return "Deep diving into AI/ML, Quantum Computing & Game Dev."
-
-me = Developer()
-```
-
 ### 🚀 About Me
 
 I design and build systems and software driven by personal curiosity and innovation. I enjoy exploring unique ideas, tackling complex problems, and diving into research-worthy domains across software engineering, artificial intelligence, and modern computing.
@@ -40,16 +21,3 @@ I design and build systems and software driven by personal curiosity and innovat
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swayamshakya&show_icons=true&theme=radial&hide_border=true" alt="Swayam's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamshakya&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-### ⚡ Fun Fact
-
-> *"The best way to predict the future is to invent it."* — Alan Kay
