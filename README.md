@@ -1,9 +1,11 @@
 ### 🚀 About Me
 
+My name is Swayam Shakya. I am a CS (Honors) student, researcher, writer, learner, and most probably, a consciousness of ideas and innovation.
+
 I design and build systems and software driven by personal curiosity and innovation. I enjoy exploring unique ideas, tackling complex problems, and diving into research-worthy domains across software engineering, artificial intelligence, and modern computing.
 
 * 🔬 **Fields of Interest:** AI/ML, Systems Engineering, Software Development, Quantum Computing, and Game Dev.
-* 💡 **Philosophy:** If it sparks curiosity or solves a unique puzzle, it's worth building.
+* 💡 **Philosophy:** If it sparks curiosity or solves a unique problem, it's worth building.
 * 📫 **Let's Connect:** Feel free to check out my repositories or reach out!
 
 ---
