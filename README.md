@@ -12,10 +12,3 @@ My name is Swayam Shakya. I am a CS (Honors) student, researcher, writer, learne
 ![](https://streak-stats.demolab.com/?user=requiemdoomed&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=requiemdoomed&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=requiemdoomed&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=requiemdoomed&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
