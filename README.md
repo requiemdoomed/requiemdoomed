@@ -1,7 +1,6 @@
 # 💫 About Me:
 My name is Swayam Shakya. I am a Bachelor of Computer Science (Honours) student, researcher, writer, learner, and definitely, a consciousness of ideas and innovation.<br><br>I design and build systems and software driven by personal curiosity and innovation. I enjoy exploring unique ideas, tackling complex problems, and currently working and spending time in research-worthy domains across software engineering, systems and sensors, artificial intelligence, and modern computing.<br><br>🔬 Fields of Interest: AI/ML, Systems Engineering, Software Development, Quantum Computing, and Game Dev.<br>💡 Philosophy: If it sparks curiosity or solves a unique problem, it's worth building.<br>📫 Let's Connect: Feel free to check out my repositories or reach out!<br>
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamsoyam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamsoyam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamsoyam) 
 
@@ -16,4 +15,3 @@ My name is Swayam Shakya. I am a Bachelor of Computer Science (Honours) student,
 ![](https://github-readme-stats.shion.dev/api?username=requiemdoomed&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=requiemdoomed&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=requiemdoomed&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
