@@ -20,6 +20,9 @@
 
 <p><sub>Evolving for tomorrow's tech &amp; advancement.</sub></p>
 
+# 💫 About Me:
+🚀 About Me<br><br>I design and build systems and software driven by personal curiosity and innovation. I enjoy exploring unique ideas, tackling complex problems, and diving into research-worthy domains across software engineering, artificial intelligence, and modern computing.<br><br>🔬 Fields of Interest: AI/ML, Systems Engineering, Software Development, Quantum Computing, and Game Dev.<br><br>💡 Philosophy: If it sparks curiosity or solves a unique puzzle, it's worth building.<br><br>📫 Let's Connect: Feel free to check out my repositories or reach out!
+
 <h2>Profile at a glance</h2>
 
 <p align="center">
