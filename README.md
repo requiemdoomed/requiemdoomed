@@ -3,7 +3,7 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · requiemdoomed</sub></p>
+<p><sub>Username · requiemdoomed</sub></p>
 <h1>Swayam Shakya</h1>
 <h2>Frontend or full-stack engineer</h2>
 <p>Evolving for tomorrow's tech &amp; advancement.</p>
