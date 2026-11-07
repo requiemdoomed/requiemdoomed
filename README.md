@@ -2,7 +2,7 @@
 
 <table width="100%">
 <tr>
-<td width="70%" valign="middle">
+<td width="72%" valign="middle">
 <p><sub>requiemdoomed</sub></p>
 <h1>Swayam Shakya</h1>
 <p>Evolving for tomorrow's tech &amp; advancement.</p>
