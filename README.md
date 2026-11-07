@@ -9,7 +9,7 @@
 <p><strong>● Passionate about building systems and solving problems.</strong></p>
 <p><strong>● AI - Systems/Software - Data Science - Quantum Computing.</strong></p>
 
-<p><a href="https://github.com/requiemdoomed">GitHub</a> &nbsp;·&nbsp; <a href="https://requiemdoomed.github.io/Updated-Portfolio/">Website</a> &nbsp;·&nbsp; <a href="www.linkedin.com/in/iamsoyam">LinkedIn</a> </p>
+<p><a href="https://github.com/requiemdoomed">GitHub</a> &nbsp;·&nbsp; <a href="https://requiemdoomed.github.io/Updated-Portfolio/">Website</a> &nbsp;·&nbsp; <a href="www.linkedin.com/in/iamsoyam">LinkedIn</a> </p> <br>
 </td>
 <td width="36%" valign="middle" align="center">
 <img src="https://avatars.githubusercontent.com/u/170825480?u=8f860c435035781e63cc9003947e313592e587c6&amp;v=4" width="180" alt="Swayam Shakya GitHub avatar" />
