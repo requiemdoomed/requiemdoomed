@@ -88,7 +88,7 @@
 
 <table width="100%">
 <tr>
-<td width="70%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="100%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
 <td width="38%" valign="middle" align="right"><a href="https://github.com/requiemdoomed">GitHub</a><br /><a href="https://requiemdoomed.github.io/Updated-Portfolio/">Website</a></td>
 </tr>
 </table>
