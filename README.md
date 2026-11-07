@@ -6,7 +6,8 @@
 <p><sub>requiemdoomed</sub></p>
 <h1>Swayam Shakya</h1>
 <p>Evolving for tomorrow's tech &amp; advancement.</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<p><strong>● Passionate about building systems and solving problems.</strong></p>
+<p><strong>● AI - Systems/Software - Data Science - Quantum Computing.</strong></p>
 
 <p><a href="https://github.com/requiemdoomed">GitHub</a> &nbsp;·&nbsp; <a href="https://requiemdoomed.github.io/Updated-Portfolio/">Website</a></p>
 </td>
