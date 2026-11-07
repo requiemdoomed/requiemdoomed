@@ -21,16 +21,7 @@
 <p><sub>Evolving for tomorrow's tech &amp; advancement.</sub></p>
 
 # 💫 About Me:
-I design and build systems and software driven by personal curiosity and innovation. I enjoy exploring unique ideas, tackling complex problems, and diving into research-worthy domains across software engineering, artificial intelligence, and modern computing.<br><p>🔬 Fields of Interest: AI/ML, Systems/Software, Data Science, Quantum Computing, and Game Development.</p><p>💡 Philosophy: If it sparks curiosity or solves a unique problem, it's worth building.</p><p>📫 Let's Connect: Feel free to check out my repositories or reach out!
-
-<h2>Profile at a glance</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=requiemdoomed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F170825480%3Fu%3D8f860c435035781e63cc9003947e313592e587c6%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=requiemdoomed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F170825480%3Fu%3D8f860c435035781e63cc9003947e313592e587c6%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Swayam Shakya GitHub proof metrics" />
-</picture>
-</p>
+I design and build systems and software driven by personal curiosity and innovation. I enjoy exploring unique ideas, tackling complex problems, and diving into research-worthy domains across software engineering, artificial intelligence, and modern computing.<br><p>🔬 Fields of Interest: AI/ML, Systems/Software, Data Science, Quantum Computing, and Game Development.</p><p>💡 Philosophy: If it sparks curiosity or solves a unique problem, it's worth building.</p><p>📫 Let's Connect: Feel free to check out my repositories or reach out!</p>
 
 <h2>Selected work</h2>
 
