@@ -3,7 +3,7 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>Username · requiemdoomed</sub></p>
+<p><sub>requiemdoomed</sub></p>
 <h1>Swayam Shakya</h1>
 <p>Evolving for tomorrow's tech &amp; advancement.</p>
 <p><strong>● Building and sharing work in public</strong></p>
