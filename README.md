@@ -1,17 +1,115 @@
-# 💫 About Me:
-My name is Swayam Shakya. I am a Bachelor of Computer Science (Honours) student, researcher, teaching assistant, novelist/writer, learner, and definitely, a consciousness of ideas and innovation.<br><br>I design and build systems and software driven by personal curiosity and innovation. I enjoy exploring unique ideas, tackling complex problems, and currently working and spending time in research-worthy domains across Data Science, Software Development, Systems and Architecture/Designing, AI/ML, and Modern Computing.<br><br>🔬 Fields of Interest: AI/ML & Systems, Software Development, Quantum Computing, and Game Development.<br>💡 Philosophy: If it sparks curiosity or solves a unique problem, it's worth building.<br>📫 Let's Connect: Feel free to check out my repositories or reach out!<br>
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamsoyam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamsoyam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamsoyam) 
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · requiemdoomed</sub></p>
+<h1>Swayam Shakya</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Evolving for tomorrow's tech &amp; advancement.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-# 💻 Languages:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+<p><a href="https://github.com/requiemdoomed">GitHub</a> &nbsp;·&nbsp; <a href="https://requiemdoomed.github.io/Updated-Portfolio/">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/170825480?u=8f860c435035781e63cc9003947e313592e587c6&amp;v=4" width="180" alt="Swayam Shakya GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-# 🔑 Tools & Frameworks:
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=plastic&logo=javafx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white)
+<h2>What teams can evaluate quickly</h2>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=requiemdoomed&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=requiemdoomed&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=requiemdoomed&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Jupyter Notebook · HTML · Python</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>31 repositories · 25 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>256 contributions · 17 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Evolving for tomorrow's tech &amp; advancement.</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>31</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>25</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>256</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>5</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=requiemdoomed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F170825480%3Fu%3D8f860c435035781e63cc9003947e313592e587c6%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=requiemdoomed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F170825480%3Fu%3D8f860c435035781e63cc9003947e313592e587c6%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Swayam Shakya GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=requiemdoomed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F170825480%3Fu%3D8f860c435035781e63cc9003947e313592e587c6%26v%3D4&repos=requiemdoomed%2FPhyVision%2Crequiemdoomed%2FMateCheck%2Crequiemdoomed%2FInLearn%2Crequiemdoomed%2FFitCheck.AI&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=requiemdoomed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F170825480%3Fu%3D8f860c435035781e63cc9003947e313592e587c6%26v%3D4&repos=requiemdoomed%2FPhyVision%2Crequiemdoomed%2FMateCheck%2Crequiemdoomed%2FInLearn%2Crequiemdoomed%2FFitCheck.AI&v=recruiter-projects-1&mode=dark" width="100%" alt="Swayam Shakya selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/requiemdoomed/PhyVision">PhyVision</a></h3>
+<p>A deep-learning computer vision system that classifies body physique from a photo into one of four archetypes: Athletic, Normal, Obese and Skinny.</p>
+<p><sub>Jupyter Notebook · ⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/requiemdoomed/PhyVision">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/requiemdoomed/MateCheck">MateCheck</a></h3><p>Chess, played backwards. You begin with a king and a queen, and win when your whole army stands home again.</p><p><sub>Jupyter Notebook · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/requiemdoomed/InLearn">InLearn</a></h3><p>A learning management system built as a desktop application that brings together what students, instructors and administrators need in one place.</p><p><sub>Java · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/requiemdoomed/FitCheck.AI">FitCheck.AI</a></h3><p>FitCheck.AI creates personalized outfits from your wardrobe based on weather and occasion, with smart ratings, styling insights, and realistic AI-gene</p><p><sub>Jupyter Notebook · ⭐ 1</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=requiemdoomed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F170825480%3Fu%3D8f860c435035781e63cc9003947e313592e587c6%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=requiemdoomed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F170825480%3Fu%3D8f860c435035781e63cc9003947e313592e587c6%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Swayam Shakya technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>43% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>36% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>8% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>7% of public code</sub></td>
+<td width="20%" align="center"><strong>Java</strong><br /><sub>3% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=requiemdoomed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F170825480%3Fu%3D8f860c435035781e63cc9003947e313592e587c6%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=requiemdoomed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F170825480%3Fu%3D8f860c435035781e63cc9003947e313592e587c6%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Swayam Shakya contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/requiemdoomed">GitHub</a><br /><a href="https://requiemdoomed.github.io/Updated-Portfolio/">Website</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Swayam Shakya · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
