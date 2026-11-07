@@ -65,16 +65,6 @@
 </picture>
 </p>
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>43% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>36% of public code</sub></td>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>8% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>7% of public code</sub></td>
-<td width="20%" align="center"><strong>Java</strong><br /><sub>3% of public code</sub></td>
-</tr>
-</table>
-
 <h2>Consistency signal</h2>
 
 <p align="center">
