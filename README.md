@@ -9,26 +9,20 @@ I design and build systems and software driven by personal curiosity and innovat
 
 <table width="100%">
 <tr>
-<td width="58%" valign="top">
+<td width="100%" valign="top">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=requiemdoomed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F170825480%3Fu%3D8f860c435035781e63cc9003947e313592e587c6%26v%3D4&repos=requiemdoomed%2FPhyVision%2Crequiemdoomed%2FMateCheck%2Crequiemdoomed%2FInLearn%2Crequiemdoomed%2FFitCheck.AI&v=recruiter-projects-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/projects?username=requiemdoomed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F170825480%3Fu%3D8f860c435035781e63cc9003947e313592e587c6%26v%3D4&repos=requiemdoomed%2FPhyVision%2Crequiemdoomed%2FMateCheck%2Crequiemdoomed%2FInLearn%2Crequiemdoomed%2FFitCheck.AI&v=recruiter-projects-1&mode=dark" width="100%" alt="Swayam Shakya selected projects" />
 </picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/requiemdoomed/PhyVision">PhyVision</a></h3>
-<p>A deep-learning computer vision system that classifies body physique from a photo into one of four archetypes: Athletic, Normal, Obese and Skinny.</p>
-<p><sub>Jupyter Notebook · ⭐ 3 · 🍴 0</sub></p>
-<p><a href="https://github.com/requiemdoomed/PhyVision">Read the repository →</a></p>
-</td>
 </tr>
 </table>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/requiemdoomed/MateCheck">MateCheck</a></h3><p>Chess, played backwards. You begin with a king and a queen, and win when your whole army stands home again.</p><p><sub>Jupyter Notebook · ⭐ 3</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/requiemdoomed/InLearn">InLearn</a></h3><p>A learning management system built as a desktop application that brings together what students, instructors and administrators need in one place.</p><p><sub>Java · ⭐ 2</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/requiemdoomed/FitCheck.AI">FitCheck.AI</a></h3><p>FitCheck.AI creates personalized outfits from your wardrobe based on weather and occasion, with smart ratings, styling insights, and realistic AI-gene</p><p><sub>Jupyter Notebook · ⭐ 3</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/requiemdoomed/PhyVision">PhyVision</a></h3><p>A deep-learning system that classifies body physique from a photo into one of four archetypes: Athletic, Normal, Obese and Skinny.</p><p><sub>Jupyter Notebook · ⭐ 3 · 🍴 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/requiemdoomed/MateCheck">MateCheck</a></h3><p>Chess, played backwards. You begin with a king and a queen, and win when your whole army stands home again.</p><p><sub>Jupyter Notebook · ⭐ 3</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/requiemdoomed/InLearn">InLearn</a></h3><p>A learning management system built as a desktop application that brings together what students, instructors and administrators need in one place.</p><p><sub>Java · ⭐ 2</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/requiemdoomed/FitCheck.AI">FitCheck.AI</a></h3><p>FitCheck.AI creates personalized outfits from your wardrobe based on weather and occasion, with smart ratings, styling insights, and realistic AI-gene</p><p><sub>Jupyter Notebook · ⭐ 3</sub></p></td>
 </tr>
 </table>
 
