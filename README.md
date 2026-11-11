@@ -28,7 +28,7 @@ I design and build systems and software driven by personal curiosity and innovat
 <tr>
 <td width="33%" valign="top"><h3><a href="https://github.com/requiemdoomed/MateCheck">MateCheck</a></h3><p>Chess, played backwards. You begin with a king and a queen, and win when your whole army stands home again.</p><p><sub>Jupyter Notebook · ⭐ 3</sub></p></td>
 <td width="33%" valign="top"><h3><a href="https://github.com/requiemdoomed/InLearn">InLearn</a></h3><p>A learning management system built as a desktop application that brings together what students, instructors and administrators need in one place.</p><p><sub>Java · ⭐ 2</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/requiemdoomed/FitCheck.AI">FitCheck.AI</a></h3><p>FitCheck.AI creates personalized outfits from your wardrobe based on weather and occasion, with smart ratings, styling insights, and realistic AI-gene</p><p><sub>Jupyter Notebook · ⭐ 2</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/requiemdoomed/FitCheck.AI">FitCheck.AI</a></h3><p>FitCheck.AI creates personalized outfits from your wardrobe based on weather and occasion, with smart ratings, styling insights, and realistic AI-gene</p><p><sub>Jupyter Notebook · ⭐ 3</sub></p></td>
 </tr>
 </table>
 
