@@ -7,7 +7,7 @@ I design and build systems and software driven by personal curiosity and innovat
 
 <h2> 💻 Selected works:</h2>
 
-<table width="150%">
+<table width="190%">
 <tr>
 <td width="190%" valign="top">
 <picture>
