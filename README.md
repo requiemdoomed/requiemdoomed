@@ -48,6 +48,4 @@ I design and build systems and software driven by personal curiosity and innovat
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/requiemdoomed/requiemdoomed/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
-
 <p align="center"><sub>Swayam Shakya</a></sub></p>
