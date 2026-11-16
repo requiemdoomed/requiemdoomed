@@ -43,9 +43,9 @@ I design and build systems and software driven by personal curiosity and innovat
 ![](https://streak-stats.demolab.com/?user=requiemdoomed&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=requiemdoomed&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/requiemdoomed/requiemdoomed/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/requiemdoomed/requiemdoomed/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/requiemdoomed/requiemdoomed/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/requiemdoomed/requiemdoomed/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/requiemdoomed/requiemdoomed/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/requiemdoomed/requiemdoomed/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
 
 ###
