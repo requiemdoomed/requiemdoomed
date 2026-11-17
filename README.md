@@ -61,8 +61,3 @@ I design and build systems and software driven by personal curiosity and innovat
 ###
 
 <p align="center"><sub>Swayam Shakya</a></sub></p>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/tv-set?username=requiemdoomed&mode=light&v=2026-11-11" />
-  <img src="https://www.gitskins.com/api/section/tv-set?username=requiemdoomed&mode=dark&v=2026-11-11" width="100%" alt="Explore my github here!" />
-</picture>
