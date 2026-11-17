@@ -27,7 +27,18 @@ I design and build systems and software driven by personal curiosity and innovat
 </table>
 
 ## 🧬 Research Projects:
-
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/requiemdoomed/QEC-Latency-Decoder">QEC Latency Decoder</a></h3><p>Measures the classical feedback latency of software quantum error-correction decoders, from simulation to calibrated IBM device replicas.</p><p><sub>Python · <img src="https://img.shields.io/github/stars/requiemdoomed/QEC-Latency-Decoder?style=flat&label=%E2%AD%90&color=grey" alt="stars" /></sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/requiemdoomed/QNAS">QNAS</a></h3><p>ADD YOUR ONE-LINE QNAS DESCRIPTION HERE.</p><p><sub>Python · <img src="https://img.shields.io/github/stars/requiemdoomed/QNAS?style=flat&label=%E2%AD%90&color=grey" alt="stars" /></sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/requiemdoomed/Baremetal-RTOS">Baremetal RTOS</a></h3><p>A lightweight, multi-threaded real-time kernel for ARM Cortex-M, written from scratch in C, C++ and ARM assembly.</p><p><sub>C · <img src="https://img.shields.io/github/stars/requiemdoomed/Baremetal-RTOS?style=flat&label=%E2%AD%90&color=grey" alt="stars" /></sub></p></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/requiemdoomed/SynthLens">SynthLens</a></h3><p>A hybrid approach for detecting synthetic AI-generated product reviews, combining NLP vectorization with stylistic feature fusion.</p><p><sub>Research Paper · <img src="https://img.shields.io/github/stars/requiemdoomed/SynthLens?style=flat&label=%E2%AD%90&color=grey" alt="stars" /></sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/requiemdoomed/ClauseGuard">ClauseGuard</a></h3><p>A dataset deduplication approach that improves MinHash and SimHash duplicate decisions through quantity and negation verification.</p><p><sub>Research Paper · <img src="https://img.shields.io/github/stars/requiemdoomed/ClauseGuard?style=flat&label=%E2%AD%90&color=grey" alt="stars" /></sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/requiemdoomed/WattWise">WattWise</a></h3><p>Regression-based prediction of household appliance energy consumption, with a test of temporal generalization.</p><p><sub>Python · <img src="https://img.shields.io/github/stars/requiemdoomed/WattWise?style=flat&label=%E2%AD%90&color=grey" alt="stars" /></sub></p></td>
+</tr>
+</table>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamsoyam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamsoyam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamsoyam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iamsoyam) 
