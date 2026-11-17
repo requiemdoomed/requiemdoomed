@@ -50,7 +50,7 @@ I design and build systems and software driven by personal curiosity and innovat
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=requiemdoomed&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<img src="https://ghstats.dev/api/card?username=requiemdoomed&theme=radical&hide=hours%2Cstreak%2Cweek%2Cavg%2Cactive_day%2Cfollowers%2Cgrade" alt="GitHub Stats Card"/>
+<img src="https://ghstats.dev/api/card?username=requiemdoomed&theme=radical&hide=hours%2Cstreak%2Cweek%2Cavg%2Cactive_day%2Cfollowers%2Cgrade" alt="GitHub Stats Card"/><br/>
 ![](https://streak-stats.demolab.com/?user=requiemdoomed&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=requiemdoomed&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <picture data-importer="pacman">
