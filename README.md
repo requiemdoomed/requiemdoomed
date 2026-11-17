@@ -57,7 +57,7 @@ I design and build systems and software driven by personal curiosity and innovat
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/requiemdoomed/requiemdoomed/pacman-output/galaga-contribution-graph.svg?game=galaga">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/requiemdoomed/requiemdoomed/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
-
+![GitHub Stats Card](https://ghstats.dev/api/card?username=requiemdoomed&theme=radical&hide=hours%2Cstreak%2Cweek%2Cavg%2Cactive_day%2Cfollowers%2Cgrade)
 ###
 
 <p align="center"><sub>Swayam Shakya</a></sub></p>
