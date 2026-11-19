@@ -4,8 +4,8 @@
   <img src="./header-boot.svg" width="100%" alt="Swayam Shakya: I design and build systems and software driven by curiosity. If it sparks curiosity or solves a unique problem, it's worth building." />
 </p>
 
-## 💫 Hey! I'm Swayam.
-I design and build systems and software driven by personal curiosity and innovation. I enjoy exploring unique ideas, tackling complex problems, and diving into research-worthy domains across software engineering, artificial intelligence, and modern computing.<br><p>🔬 Fields of Interest: AI/ML, Systems/Software, Data Science, Quantum Computing, and Game Development.</p><p>💡 Philosophy: If it sparks curiosity or solves a unique problem, it's worth building.</p><p>📫 Let's Connect: Feel free to check out my repositories or reach out!</p> 
+
+I enjoy exploring unique ideas, tackling complex problems, and diving into research-worthy domains across software engineering, artificial intelligence, and modern computing.<br><p>🔬 Fields of Interest: AI/ML, Systems/Software, Data Science, Quantum Computing, and Game Development.</p><p>💡 Philosophy: If it sparks curiosity or solves a unique problem, it's worth building.</p><p>📫 Let's Connect: Feel free to check out my repositories or reach out!</p> 
 <p>
 </p>
 
