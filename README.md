@@ -2,6 +2,16 @@
   <img src="./header-boot.svg" width="100%" alt="Swayam Shakya: I design and build systems and software driven by curiosity. If it sparks curiosity or solves a unique problem, it's worth building." />
 </p>
 
+<p align="center">
+  <a href="https://facebook.com/iamsoyam"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/iamsoyam"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/iamsoyam"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/iamsoyam"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
+  <a href="https://requiemdoomed.github.io/Updated-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%238A2BE2.svg?logo=github&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.hackerrank.com/profile/requiemdoomed"><img src="https://img.shields.io/badge/HackerRank-%2300EA64.svg?logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://www.kaggle.com/swayamshakya"><img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://requiemdoomed.tumblr.com/"><img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?logo=tumblr&logoColor=white" alt="Tumblr" /></a>
+</p>
 ____
 
 I enjoy exploring unique ideas, tackling complex problems, and diving into research-worthy domains across software engineering, artificial intelligence, and modern computing.<br><p>🔬 Fields of Interest: AI/ML, Systems/Software, Data Science, Quantum Computing, and Game Development.</p><p>💡 Philosophy: If it sparks curiosity or solves a unique problem, it's worth building.</p><p>📫 Let's Connect: Feel free to check out my repositories or reach out!</p> 
