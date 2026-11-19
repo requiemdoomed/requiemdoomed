@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="./header-boot.svg" width="100%" alt="Swayam Shakya: I design and build systems and software driven by curiosity. If it sparks curiosity or solves a unique problem, it's worth building." />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./header-boot-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./header-boot-light.svg">
+  <img alt="Swayam Shakya: I design and build systems and software driven by curiosity. If it sparks curiosity or solves a unique problem, it's worth building." src="./header-boot-light.svg" width="100%">
+</picture>
 <br>
 <p align="center">
   <a href="https://facebook.com/iamsoyam"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" /></a>
