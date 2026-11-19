@@ -5,7 +5,7 @@ I design and build systems and software driven by personal curiosity and innovat
 <p>
 </p>
 
-<h2> ⚙️ Selected works:</h2>
+<h2> 🔖 Selected works:</h2>
 
 <table width="150%">
 <tr>
