@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./header-boot-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./header-boot-light.svg">
-  <img alt="Swayam Shakya: I design and build systems and software driven by curiosity. If it sparks curiosity or solves a unique problem, it's worth building." src="./header-boot-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/requiemdoomed/requiemdoomed/main/header-boot-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/requiemdoomed/requiemdoomed/main/header-boot-light.svg?v=3">
+  <img alt="Swayam Shakya: I design and build systems and software driven by curiosity. If it sparks curiosity or solves a unique problem, it's worth building." src="https://raw.githubusercontent.com/requiemdoomed/requiemdoomed/main/header-boot-light.svg?v=3" width="100%">
 </picture>
 <br>
 <p align="center">
