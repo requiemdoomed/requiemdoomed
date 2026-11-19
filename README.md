@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="./intro-light.svg">
   <img alt="Swayam Shakya: I design and build systems and software driven by curiosity. If it sparks curiosity or solves a unique problem, it's worth building." src="./intro-light.svg" width="100%">
 </picture>
-<br>
+</br>
 <p align="center">
   <a href="https://facebook.com/iamsoyam"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://instagram.com/iamsoyam"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
