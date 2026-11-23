@@ -24,7 +24,7 @@ I enjoy exploring unique ideas, tackling complex problems, and diving into resea
 
 <h2> 🔖 Selected works:</h2>
 
-<table width="150%">
+<table width="200%">
 <tr>
 <td width="200%" valign="top">
 <picture>
