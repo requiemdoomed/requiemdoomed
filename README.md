@@ -24,9 +24,9 @@ I enjoy exploring unique ideas, tackling complex problems, and diving into resea
 
 <h2> 🔖 Selected works:</h2>
 
-<table width="250%">
+<table width="200%">
 <tr>
-<td width="250%" valign="top">
+<td width="200%" valign="top">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=requiemdoomed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F170825480%3Fu%3D8f860c435035781e63cc9003947e313592e587c6%26v%3D4&repos=requiemdoomed%2FPhyVision%2Crequiemdoomed%2FMateCheck%2Crequiemdoomed%2FInLearn%2Crequiemdoomed%2FFitCheck.AI&v=recruiter-projects-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/projects?username=requiemdoomed&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F170825480%3Fu%3D8f860c435035781e63cc9003947e313592e587c6%26v%3D4&repos=requiemdoomed%2FPhyVision%2Crequiemdoomed%2FMateCheck%2Crequiemdoomed%2FInLearn%2Crequiemdoomed%2FFitCheck.AI&v=recruiter-projects-1&mode=dark" width="100%" alt="Swayam Shakya selected projects" />
