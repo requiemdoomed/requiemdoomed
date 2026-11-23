@@ -64,7 +64,7 @@ I enjoy exploring unique ideas, tackling complex problems, and diving into resea
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=requiemdoomed&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=requiemdoomed&theme=radical&hide_border=false)<br/>
+<a href="https://www.githubstats.tech"><img alt="requiemdoomed's GitHub Stats" src="https://www.githubstats.tech/api/card?username=requiemdoomed&theme=radical&size=default&show_name=1&show_grade=1&show_stars=1&show_commits=1&show_prs=1&show_issues=1&show_contributed=1&show_year=0&show_top_repo=0&show_profile=0&show_top_percent=0&contrib_stars=1" /></a>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=requiemdoomed&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/requiemdoomed/requiemdoomed/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
